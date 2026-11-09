@@ -1,0 +1,38 @@
+# Article history
+
+Every article ever added to Daily Read. Never add one of these again (except unread leftovers carried forward — see ADDING_A_BATCH.md).
+
+## Previously read before Daily Read existed
+- https://www.anthropic.com/research/building-effective-agents — Building effective AI agents (Anthropic)
+
+## Batch 1 — November 2026 (added 2026-10-29)
+- https://www.anthropic.com/research/tracing-thoughts-language-model — Tracing the thoughts of a large language model (Anthropic)
+- https://www.anthropic.com/research/mapping-mind-language-model — Mapping the mind of a large language model (Anthropic)
+- https://www.anthropic.com/research/claude-character — Claude's character (Anthropic)
+- https://www.anthropic.com/research/alignment-faking — Alignment faking in large language models (Anthropic)
+- https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents — Effective context engineering for AI agents (Anthropic)
+- https://www.anthropic.com/engineering/writing-tools-for-agents — Writing effective tools for AI agents (Anthropic)
+- https://www.anthropic.com/research/project-vend-1 — Project Vend: Can Claude run a small shop? (Anthropic)
+- https://www.anthropic.com/engineering/multi-agent-research-system — How we built our multi-agent research system (Anthropic)
+- https://www.anthropic.com/research/agentic-misalignment — Agentic misalignment: LLMs as insider threats (Anthropic)
+- https://www.anthropic.com/research/reasoning-models-dont-say-think — Reasoning models don't always say what they think (Anthropic)
+- https://www.anthropic.com/research/introspection — Emergent introspective awareness in LLMs (Anthropic)
+- https://www.anthropic.com/research/emergent-misalignment-reward-hacking — Natural emergent misalignment from reward hacking (Anthropic)
+- https://www.anthropic.com/news/disrupting-AI-espionage — Disrupting an AI-orchestrated cyber espionage campaign (Anthropic)
+- https://www.anthropic.com/research/auditing-hidden-objectives — Auditing language models for hidden objectives (Anthropic)
+- https://www.anthropic.com/news/claudes-constitution — Claude's constitution (Anthropic)
+- https://darioamodei.com/essay/machines-of-loving-grace — Machines of Loving Grace (Dario Amodei)
+- https://darioamodei.com/post/the-urgency-of-interpretability — The Urgency of Interpretability (Dario Amodei)
+- https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged — Centaurs and Cyborgs on the Jagged Frontier (Ethan Mollick)
+- https://www.oneusefulthing.org/p/on-working-with-wizards — On Working with Wizards (Ethan Mollick)
+- https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks — The Shape of AI: Jaggedness, Bottlenecks and Salients (Ethan Mollick)
+- https://www.oneusefulthing.org/p/thinking-like-an-ai — Thinking Like an AI (Ethan Mollick)
+- https://www.normaltech.ai/p/ai-as-normal-technology — AI as Normal Technology (Narayanan & Kapoor)
+- https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/ — The lethal trifecta for AI agents (Simon Willison)
+- https://simonwillison.net/2025/Dec/31/the-year-in-llms/ — 2025: The year in LLMs (Simon Willison)
+- https://karpathy.bearblog.dev/animals-vs-ghosts/ — Animals vs Ghosts (Andrej Karpathy)
+- https://karpathy.bearblog.dev/verifiability/ — Verifiability (Andrej Karpathy)
+- http://www.incompleteideas.net/IncIdeas/BitterLesson.html — The Bitter Lesson (Rich Sutton)
+- https://www.dwarkesh.com/p/timelines-june-2025 — Why I don't think AGI is right around the corner (Dwarkesh Patel)
+- https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/ — Measuring AI ability to complete long tasks (METR)
+- https://www.understandingai.org/p/why-large-language-models-struggle — Why large language models struggle with long contexts (Understanding AI)
