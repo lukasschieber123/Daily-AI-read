@@ -39,8 +39,8 @@ Requires macOS 13+ and the Swift compiler (comes with Xcode or the Command Line
 Tools: `xcode-select --install`).
 
 ```sh
-git clone https://github.com/lukasschieber123/daily-read.git
-cd daily-read
+git clone https://github.com/lukasschieber123/Daily-AI-read.git
+cd Daily-AI-read
 ./build.sh
 ```
 
